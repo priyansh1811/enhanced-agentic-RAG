@@ -242,26 +242,12 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with [LangChain](https://langchain.com/) and [LangGraph](https://langchain.com/langgraph)
 - Vector storage powered by [Qdrant](https://qdrant.tech/)
 - Document processing with [Unstructured](https://unstructured.io/)
 - Inspired by [Uber's Enhanced Agentic RAG](https://www.uber.com/en-PK/blog/enhanced-agentic-rag/)
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/priyansh1811/enhanced-agentic-RAG/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/priyansh1811/enhanced-agentic-RAG/discussions)
-- **Email**: analyst@archon.ai
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=priyansh1811/enhanced-agentic-RAG&type=Date)](https://star-history.com/#priyansh1811/enhanced-agentic-RAG&Date)
 
 ---
 
